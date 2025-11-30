@@ -14,4 +14,7 @@ I'm a Game Server Analyst focusing on High-Performance Mobile Applications.
 | **[Server Anti-Nawala Protocol](https://sites.google.com/view/dragonsakti88)** | `Stable` | Alternative access points for high-traffic gaming servers. |
 | **[My Tech Stack (Linktree)](https://linktr.ee/rakanesia)** | `Active` | Central hub for all my research links. |
 
-![Rakanesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakanesia&show_icons=true&theme=radical)
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakanesia&label=PROFILE+VIEWS&style=for-the-badge&color=ff0000" alt="Profile Views" />
+</div>
